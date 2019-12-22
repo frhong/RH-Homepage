@@ -2,8 +2,8 @@
 remote_theme: 'epidrome/cover-card'
 
 # Title and tag line
-title: 'My name'
-description: 'I am amazing.'
+title: 'Richard Hong'
+description: 'I am amazing. </br> hihi [github][http://www.github.com]'
 
 # Images
 avatar: 'avatar.jpg'
@@ -62,11 +62,11 @@ plugins:
 #     - **optional**
 social-links:
   - name: facebook
-    url-pattern: facebook.com/__USERNAME__
+    url-pattern: facebook.com/richardhong
     icon-class: fab fa-2x fa-facebook-f
 
   - name: twitter
-    url-pattern: twitter.com/__USERNAME__
+    url-pattern: twitter.com/frhong
 
   - name: linkedin
     url-pattern: linkedin.com/in/__USERNAME__
