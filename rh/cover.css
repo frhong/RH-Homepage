@@ -9,16 +9,26 @@ a:hover {
   color: #fff;
 }
 
+/* Style that first letter! */
+.first-letter {
+  font-size: 35px;
+  padding-left: 12px;
+}
+
+
 /* Custom default button */
 .btn-secondary,
 .btn-secondary:hover,
 .btn-secondary:focus {
   color: #333;
   text-shadow: none; /* Prevent inheritance from `body` */
-  background-color: #fff;
+  background-color: #969590;
   border: .02rem solid #fff;
 }
 
+.btn-secondary:hover {
+  color: #fff;
+}
 
 /*
  * Base structure
